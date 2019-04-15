@@ -22,6 +22,14 @@ http://live.bongdaf.net/hls/76b0387bc50254dd5f398df3285f18dc/5c852ebf3d55fkblCOJ
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",BÓNG ĐÁ 10 (Chỉ phát khi có bóng đá)
 http://live.bongdaf.net/hls/2dcfed6fcfb6cd36fd8697000b1e8552/5c852ef7c50aecboRIN440/3ca4f96cbb3ff33703a02b10f89c6e03/mgp6eqy/index.m3u8
 
+#EXTINF:-1 group-title="LINK1",SPORT: AR - beIN Sports 1 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197968.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197980.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197982.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197984.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 5 HD
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/198060.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 6 HD
