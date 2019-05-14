@@ -334,7 +334,7 @@ http://113.186.134.142:6868/rtp/232.84.2.140:10660
 http://113.186.134.142:6868/rtp/232.84.2.36:10624
 #EXTINF:-1,Bloomberg (HD 7.5Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.146:10696
-#EXTINF:-1,Cartoon Network (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_152317.JPG",Cartoon Network (HD 7Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.144:10684
 #EXTINF:-1,[V] HD (HD 7Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.132:9588
@@ -396,7 +396,7 @@ http://113.186.134.142:6868/rtp/232.84.1.14:8058
 http://113.186.134.142:6868/rtp/232.84.2.239:10452
 #EXTINF:-1,Bloomberg
 http://113.186.134.142:6868/rtp/232.84.1.7:8016
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_152317.JPG",Cartoon Network
 http://113.186.134.142:6868/rtp/232.84.1.16:8070
 #EXTINF:-1,CCTV2
 http://113.186.134.142:6868/rtp/232.84.2.240:10458
