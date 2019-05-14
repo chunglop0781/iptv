@@ -571,9 +571,9 @@ http://14.191.76.71:9981/stream/channelid/1668505331
 http://14.191.76.71:9981/stream/channelid/1351565787
 #EXTINF:-1,DISCOVERY
 http://14.191.76.71:9981/stream/channelid/784692695
-#EXTINF:-1,DISNEY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",DISNEY
 http://14.191.76.71:9981/stream/channelid/525940791
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",DISNEY CHANNEL HD
 http://14.191.76.71:9981/stream/channelid/536538791
 #EXTINF:-1,DISNEY JUNIOR
 http://14.191.76.71:9981/stream/channelid/479936294
