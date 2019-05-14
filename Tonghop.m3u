@@ -344,7 +344,7 @@ http://113.186.134.142:6868/rtp/232.84.2.145:10690
 http://113.186.134.142:6868/rtp/232.84.2.131:9582
 #EXTINF:-1,Discovery Channel (HD 7Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.53:10528
-#EXTINF:-1,Disney Channel (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",Disney Channel (HD 7Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.143:10678
 #EXTINF:-1,DIVA (HD 6.5Mbps)
 http://113.186.134.142:6868/rtp/232.84.2.130:9576
