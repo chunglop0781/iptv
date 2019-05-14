@@ -905,7 +905,7 @@ http://14.191.76.71:9981/stream/channelid/814137948
 http://14.191.76.71:9981/stream/channelid/1573907266
 #EXTINF:-1,VTV5 HD
 http://14.191.76.71:9981/stream/channelid/645381169
-#EXTINF:-1,VÄ©nh Long 2
+#EXTINF:-1,Vĩnh Long 2
 http://14.191.76.71:9981/stream/channelid/2106358838
 #EXTINF:-1,WARNER BROS HD
 http://14.191.76.71:9981/stream/channelid/364851793
@@ -1230,7 +1230,7 @@ http://14.241.67.255:8889/udp/225.1.2.253:30120
 http://14.241.67.255:8889/udp/225.1.2.222:30120
 #EXTINF:-1,Discovery Channel (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.1.238:30120
-#EXTINF:-1,Disney Channel (HD 4Mbps)
+#EXTINF:-1a,Disney Channel (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.2.160:30120
 #EXTINF:-1,DW (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.1.46:30120
@@ -1288,7 +1288,7 @@ http://14.241.67.255:8889/udp/225.1.2.253:30120
 http://14.241.67.255:8889/udp/225.1.2.222:30120
 #EXTINF:-1,Discovery Channel (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.1.238:30120
-#EXTINF:-1,Disney Channel (HD 4Mbps)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",Disney Channel (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.2.160:30120
 #EXTINF:-1,DW (HD 4Mbps)
 http://14.241.67.255:8889/udp/225.1.1.46:30120
@@ -1641,7 +1641,7 @@ http://14.167.12.232:2204/rtp/232.84.1.108:10224
 http://14.167.12.232:2204/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY
 http://14.167.12.232:2204/rtp/232.84.1.47:8262
-#EXTINF:-1,DISNEY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",DISNEY
 http://14.167.12.232:2204/rtp/232.84.1.18:8082
 #EXTINF:-1,Disney Junior
 http://14.167.12.232:2204/rtp/232.84.1.90:10398
@@ -1955,7 +1955,7 @@ http://14.167.12.232:2204/rtp/232.84.1.253:9492
 http://14.167.12.232:2204/rtp/232.84.1.116:8670
 #EXTINF:-1,FashionTV PIP
 http://14.167.12.232:2204/rtp/232.84.1.114:8658
-#EXTINF:-1,Disney Channel PIP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",Disney Channel PIP
 http://14.167.12.232:2204/rtp/232.84.1.101:8580
 #EXTINF:-1,Adtec 1
 http://14.167.12.232:2204/rtp/232.84.2.239:10452
