@@ -412,7 +412,7 @@ http://113.186.134.142:6868/rtp/232.84.2.126:8076
 http://113.186.134.142:6868/rtp/232.84.1.108:10224
 #EXTINF:-1,Discovery Channel
 http://113.186.134.142:6868/rtp/232.84.1.47:8262
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",Disney Channel
 http://113.186.134.142:6868/rtp/232.84.1.18:8082
 #EXTINF:-1,Disney Junior
 http://113.186.134.142:6868/rtp/232.84.1.90:10398
