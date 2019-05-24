@@ -1376,31 +1376,37 @@ http://14.239.87.67:4022/rtp/232.84.1.148:8862
 #EXTINF:-1,VTV9
 http://14.239.87.67:4022/rtp/232.84.1.241:9420
 #EXTINF:-1,VTVCab1 - Giải trí TV
-http://14.191.76.71:9981/stream/channelid/610554115
+http://14.239.87.67:4022/rtp/232.84.1.143:8832
 #EXTINF:-1,VTVCab10 - O2TV
-http://14.191.76.71:9981/stream/channelid/1750446240
+http://14.239.87.67:4022/rtp/232.84.1.26:8130
 #EXTINF:-1,VTVCab12 - Style TV
-http://14.191.76.71:9981/stream/channelid/498213730
-#EXTINF:-1,VTVCab16 - Bóng Đá TV
-http://14.191.76.71:9981/stream/channelid/1843813602
+http://14.239.87.67:4022/rtp/232.84.1.244:9438
+#EXTINF:-1,VTVCab16 - Bóng Đá TV (DRM)
+http://14.239.87.67:4022/rtp/232.84.1.138:8802
+#EXTINF:-1,VTVcab16 _ Bóng Đá TV HD (DRM)
+http://14.239.87.67:4022/rtp/232.84.1.210:9234
 #EXTINF:-1,VTVCab17 - yeah1 TV
-http://14.191.76.71:9981/stream/channelid/1357551180
+http://14.239.87.67:4022/rtp/232.84.1.217:9276
+#EXTINF:-1,VTVcab 19 _ Film TV
+http://14.239.87.67:4022/rtp/232.84.1.169:8988
 #EXTINF:-1,VTVCab2 - Phim Việt
-http://14.191.76.71:9981/stream/channelid/623628717
+http://14.239.87.67:4022/rtp/232.84.1.168:8982
 #EXTINF:-1,VTVCab20 - VFamily
-http://14.191.76.71:9981/stream/channelid/818453543
-#EXTINF:-1,VTVCab3 - Thể Thao TV
-http://14.191.76.71:9981/stream/channelid/1904452204
+http://14.239.87.67:4022/rtp/232.84.1.245:10344
+#EXTINF:-1,VTVCab3 - Thể Thao TV (DRM)
+http://14.239.87.67:4022/rtp/232.84.1.208:9222
+#EXTINF:-1,VTVcab3 _ Thể Thao TV HD (DRM)
+http://14.239.87.67:4022/rtp/232.84.1.207:9216
 #EXTINF:-1,VTVCab4 - Kênh 17
 http://14.191.76.71:9981/stream/channelid/205866639
 #EXTINF:-1,VTVCab5 - E Channel
-http://14.191.76.71:9981/stream/channelid/1604281169
+http://14.239.87.67:4022/rtp/232.84.1.193:9132
 #EXTINF:-1,VTVCab6 - Hay TV
-http://14.191.76.71:9981/stream/channelid/1602748646
+http://14.239.87.67:4022/rtp/232.84.1.220:9294
 #EXTINF:-1,VTVCab7 - Dramas
-http://14.191.76.71:9981/stream/channelid/1921245814
+http://14.239.87.67:4022/rtp/232.84.1.205:9204
 #EXTINF:-1,VTVCab8 - BiBi
-http://14.191.76.71:9981/stream/channelid/1427680228
+http://14.239.87.67:4022/rtp/232.84.1.206:9210
 #EXTINF:-1,Vĩnh Long 1
 http://14.191.76.71:9981/stream/channelid/1895900445
 #EXTINF:-1,Vĩnh Phúc
