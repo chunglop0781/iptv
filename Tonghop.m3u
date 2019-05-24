@@ -299,6 +299,116 @@ http://14.186.87.229:8889/rtp/232.84.2.73:8748
 http://14.186.87.229:8889/rtp/232.84.1.171:9000
 #EXTINF:-1,THĐT1 _ Truyền hình Đồng Tháp
 http://14.186.87.229:8889/rtp/232.84.1.154:8898
+#EXTINF:-1,THTG _ Truyền hình Tiền Giang
+http://14.186.87.229:8889/rtp/232.84.1.189:9108
+#EXTINF:-1,ATV _ Truyền hình An Giang
+http://14.186.87.229:8889/rtp/232.84.2.110:8742
+#EXTINF:-1,THBT _ Truyền hình Bến Tre
+http://14.186.87.229:8889/rtp/232.84.2.115:8778
+#EXTINF:-1,THVL1 _ Truyền hình Vĩnh Long
+http://14.186.87.229:8889/rtp/232.84.1.195:9144
+#EXTINF:-1,THVL2 _ Truyền hình Vĩnh Long
+http://14.186.87.229:8889/rtp/232.84.1.196:9150
+#EXTINF:-1,THTV _ Truyền hình Trà Vinh
+http://14.186.87.229:8889/rtp/232.84.2.102:9114
+#EXTINF:-1,HGTV _ Truyền hình Hậu Giang
+http://14.186.87.229:8889/rtp/232.84.2.112:8940
+#EXTINF:-1,KG _ Truyền hình Kiên Giang
+http://14.186.87.229:8889/rtp/232.84.2.113:8964
+#EXTINF:-1,STV1 _ Truyền hình Sóc Trăng
+http://14.186.87.229:8889/rtp/232.84.2.103:9072
+#EXTINF:-1,BLTV _ Truyền hình Bạc Liêu
+http://14.186.87.229:8889/rtp/232.84.2.116:8766
+#EXTINF:-1,CTV _ Truyền hình Cà Mau
+http://14.186.87.229:8889/rtp/232.84.2.117:8826
+#EXTINF:-1,THTPCT _ Truyền hình Thành phố Cần Thơ
+http://14.186.87.229:8889/rtp/232.84.2.118:8838
+#EXTINF:-1,Animal Planet (HD)
+http://14.186.87.229:8889/rtp/232.84.2.147:10702
+#EXTINF:-1,Asian Food Channel (HD)
+http://14.186.87.229:8889/rtp/232.84.2.129:9570
+#EXTINF:-1,AXN (HD)
+http://14.186.87.229:8889/rtp/232.84.2.140:10660
+#EXTINF:-1,Baby TV (HD)
+http://14.186.87.229:8889/rtp/232.84.2.36:10624
+#EXTINF:-1,Bloomberg (HD)
+http://14.186.87.229:8889/rtp/232.84.2.146:10696
+#EXTINF:-1,Cartoon Network (HD)
+http://14.186.87.229:8889/rtp/232.84.2.144:10684
+#EXTINF:-1,[V] HD
+http://14.186.87.229:8889/rtp/232.84.2.132:9588
+#EXTINF:-1,CNN (HD)
+http://14.186.87.229:8889/rtp/232.84.2.145:10690
+#EXTINF:-1,Da Vinci Learning (HD)
+http://14.186.87.229:8889/rtp/232.84.2.131:9582
+#EXTINF:-1,Discovery Channel (HD)
+http://14.186.87.229:8889/rtp/232.84.2.53:10528
+#EXTINF:-1,Disney Channel (HD)
+http://14.186.87.229:8889/rtp/232.84.2.143:10678
+#EXTINF:-1,Diva (HD)
+http://14.186.87.229:8889/rtp/232.84.2.130:9576
+#EXTINF:-1,DW (HD)
+http://14.186.87.229:8889/rtp/232.84.2.233:10416
+#EXTINF:-1,Fashion TV (HD)
+http://14.186.87.229:8889/rtp/232.84.2.52:10522
+#EXTINF:-1,FOX HD
+http://14.186.87.229:8889/rtp/232.84.2.120:8448
+#EXTINF:-1,FOX Life (HD)
+http://14.186.87.229:8889/rtp/232.84.1.78:8442
+#EXTINF:-1,FOX Movies (HD)
+http://14.186.87.229:8889/rtp/232.84.1.77:8436
+#EXTINF:-1,FOX SPORTS (HD)
+http://14.186.87.229:8889/rtp/232.84.2.141:10666
+#EXTINF:-1,FOX SPORTS 2 (HD)
+http://14.186.87.229:8889/rtp/232.84.2.142:10672
+#EXTINF:-1,GEM (HD)
+http://14.186.87.229:8889/rtp/232.84.1.84:10392
+#EXTINF:-1,HBO HD
+http://14.186.87.229:8889/rtp/232.84.2.138:10648
+#EXTINF:-1,MAX by HBO (HD)
+http://14.186.87.229:8889/rtp/232.84.2.139:10654
+#EXTINF:-1,National Geographic HD
+http://14.186.87.229:8889/rtp/232.84.1.1:7980
+#EXTINF:-1,Nat Geo People (HD)
+http://14.186.87.229:8889/rtp/232.84.1.76:8430
+#EXTINF:-1,Nat Geo Wild HD
+http://14.186.87.229:8889/rtp/232.84.2.123:8454
+#EXTINF:-1,NHK World Japan (HD)
+http://14.186.87.229:8889/rtp/232.84.1.72:8406
+#EXTINF:-1,Outdoor Channel (HD)
+http://14.186.87.229:8889/rtp/232.84.1.107:10218
+#EXTINF:-1,RED BY HBO (HD)
+http://14.186.87.229:8889/rtp/232.84.1.9:8028
+#EXTINF:-1,Travel and Living (TLC) (HD)
+http://14.186.87.229:8889/rtp/232.84.2.148:10708
+#EXTINF:-1,WBTV HD
+http://14.186.87.229:8889/rtp/232.84.2.51:10516
+#EXTINF:-1,Animal Planet
+http://14.186.87.229:8889/rtp/232.84.1.48:8268
+#EXTINF:-1,Arirang
+http://14.186.87.229:8889/rtp/232.84.1.43:8238
+#EXTINF:-1,Asian Food Channel
+http://14.186.87.229:8889/rtp/232.84.1.115:10236
+#EXTINF:-1,Australia Plus
+http://14.186.87.229:8889/rtp/232.84.2.244:10482
+#EXTINF:-1,AXN
+http://14.186.87.229:8889/rtp/232.84.1.14:8058
+#EXTINF:-1,BBC WORLD NEWS
+http://14.186.87.229:8889/rtp/232.84.2.239:10452
+#EXTINF:-1,Bloomberg
+http://14.186.87.229:8889/rtp/232.84.1.7:8016
+#EXTINF:-1,Cartoon Network
+http://14.186.87.229:8889/rtp/232.84.1.16:8070
+#EXTINF:-1,CCTV2
+http://14.186.87.229:8889/rtp/232.84.2.240:10458
+#EXTINF:-1,CCTV10
+http://14.186.87.229:8889/rtp/232.84.1.3:7992
+#EXTINF:-1,Channel News Asia
+http://14.186.87.229:8889/rtp/232.84.1.5:8004
+#EXTINF:-1,[V]
+http://14.186.87.229:8889/rtp/232.84.1.13:8052
+#EXTINF:-1,CNN
+http://14.186.87.229:8889/rtp/232.84.2.126:8076
 
 #EXTINF:-1 group-title="VNPT_Corp_2.m3u",VTV1 HD (HD 8Mbps)
 http://113.186.134.142:6868/rtp/232.84.1.117:10254
