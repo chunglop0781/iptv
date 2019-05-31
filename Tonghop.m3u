@@ -1110,7 +1110,7 @@ http://123.21.17.247:8889/rtp/232.84.2.115:8778
 #EXTINF:-1,Cao Bằng
 http://123.21.17.247:8889/rtp/232.84.2.109:8844
 #EXTINF:-1,CARTOON NETWORK
-http://14.191.76.71:9981/stream/channelid/57389857
+http://123.21.17.247:8889/rtp/232.84.1.16:8070
 #EXTINF:-1,Channel News Asia
 http://14.191.76.71:9981/stream/channelid/1091299836
 #EXTINF:-1,CHANNEL NEWS ASIA HD
@@ -1132,11 +1132,11 @@ http://14.191.76.71:9981/stream/channelid/1351565787
 #EXTINF:-1,DISCOVERY
 http://14.191.76.71:9981/stream/channelid/784692695
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",DISNEY
-http://14.239.87.67:4022/rtp/232.84.1.18:8082
+http://123.21.17.247:8889/rtp/232.84.1.18:8082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chunglop0781/logo/master/_20190514_144909.JPG",DISNEY CHANNEL HD
-http://14.191.76.71:9981/stream/channelid/536538791
+http://123.21.17.247:8889/rtp/232.84.2.143:10678
 #EXTINF:-1,DISNEY JUNIOR
-http://14.191.76.71:9981/stream/channelid/479936294
+http://123.21.17.247:8889/rtp/232.84.1.90:10398
 #EXTINF:-1,Diva Universal
 http://14.191.76.71:9981/stream/channelid/1179279060
 #EXTINF:-1,DIVA UNIVERSAL HD
@@ -1164,9 +1164,11 @@ http://14.191.76.71:9981/stream/channelid/518035552
 #EXTINF:-1,HTV1
 http://14.191.76.71:9981/stream/channelid/691175589
 #EXTINF:-1,HTV2
-http://14.191.76.71:9981/stream/channelid/1110445481
+http://123.21.17.247:8889/rtp/232.84.1.36:8190
+#EXTINF:-1,HTV2 HD
+http://123.21.17.247:8889/rtp/232.84.1.222:9306
 #EXTINF:-1,HTV3
-http://14.191.76.71:9981/stream/channelid/1984331820
+http://123.21.17.247:8889/rtp/232.84.1.104:8598
 #EXTINF:-1,HTV4
 http://14.191.76.71:9981/stream/channelid/1964370037
 #EXTINF:-1,HTV7
