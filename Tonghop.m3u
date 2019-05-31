@@ -1092,21 +1092,23 @@ http://123.21.17.247:8889/rtp/232.84.2.156:10756
 #EXTINF:-1,Bình Phước 1
 http://123.21.17.247:8889/rtp/232.84.2.90:8814
 #EXTINF:-1,Bình Thuận
-http://14.191.76.71:9981/stream/channelid/82689221
+http://123.21.17.247:8889/rtp/232.84.2.77:8820
 #EXTINF:-1,Bình Định
-http://14.191.76.71:9981/stream/channelid/619744924
+http://123.21.17.247:8889/rtp/232.84.2.88:8784
 #EXTINF:-1,Bạc Liêu
-http://14.191.76.71:9981/stream/channelid/1648349216
+http://123.21.17.247:8889/rtp/232.84.2.116:8766
 #EXTINF:-1,Bắc Giang
-http://14.191.76.71:9981/stream/channelid/310078625
+http://123.21.17.247:8889/rtp/232.84.2.89:8754
 #EXTINF:-1,Bắc Kạn
-http://14.191.76.71:9981/stream/channelid/1567836805
+http://123.21.17.247:8889/rtp/232.84.2.92:8760
 #EXTINF:-1,Bắc Ninh
-http://14.191.76.71:9981/stream/channelid/532962469
+http://123.21.17.247:8889/rtp/232.84.1.133:8772
+#EXTINF:-1,BAC NINH HD
+http://123.21.17.247:8889/rtp/232.84.2.245:10506
 #EXTINF:-1,Bến Tre
-http://14.191.76.71:9981/stream/channelid/974115751
+http://123.21.17.247:8889/rtp/232.84.2.115:8778
 #EXTINF:-1,Cao Bằng
-http://14.191.76.71:9981/stream/channelid/1248260254
+http://123.21.17.247:8889/rtp/232.84.2.109:8844
 #EXTINF:-1,CARTOON NETWORK
 http://14.191.76.71:9981/stream/channelid/57389857
 #EXTINF:-1,Channel News Asia
