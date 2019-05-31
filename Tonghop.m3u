@@ -1055,8 +1055,8 @@ http://14.162.134.29:6868/rtp/232.84.1.176:10374
 
 #EXTINF:-1 group-title="VNPT_Corp 3.m3u",A+ HD
 http://14.191.76.71:9981/stream/channelid/818468596
-#EXTINF:-1,An Giang 1
-http://14.191.76.71:9981/stream/channelid/414576345
+#EXTINF:-1,An Giang
+http://123.21.17.247:8889/rtp/232.84.2.110:8742
 #EXTINF:-1,An ninh TV
 http://14.191.76.71:9981/stream/channelid/1792653227
 #EXTINF:-1,Animal Planet
@@ -1078,15 +1078,19 @@ http://14.191.76.71:9981/stream/channelid/1101232307
 #EXTINF:-1,BLOOMBERG HD
 http://14.191.76.71:9981/stream/channelid/91824136
 #EXTINF:-1,Bà Rịa - Vũng Tàu
-http://14.191.76.71:9981/stream/channelid/1906109747
+http://123.21.17.247:8889/rtp/232.84.2.73:8748
 #EXTINF:-1,Bình Dương 1
-http://14.191.76.71:9981/stream/channelid/55726139
+http://123.21.17.247:8889/rtp/232.84.1.136:8790
+#EXTINF:-1,BINH DUONG 1 HD
+http://123.21.17.247:8889/rtp/232.84.2.155:10750
 #EXTINF:-1,Bình Dương 2
-http://14.191.76.71:9981/stream/channelid/791910969
+http://123.21.17.247:8889/rtp/232.84.1.137:8796
 #EXTINF:-1,Bình Dương 4 - iMovie TV
-http://14.191.76.71:9981/stream/channelid/1503320715
+http://123.21.17.247:8889/rtp/232.84.1.139:8808
+#EXTINF:-1,BTV4-iMOVIE TV HD
+http://123.21.17.247:8889/rtp/232.84.2.156:10756
 #EXTINF:-1,Bình Phước 1
-http://14.191.76.71:9981/stream/channelid/1653816541
+http://123.21.17.247:8889/rtp/232.84.2.90:8814
 #EXTINF:-1,Bình Thuận
 http://14.191.76.71:9981/stream/channelid/82689221
 #EXTINF:-1,Bình Định
@@ -1295,16 +1299,16 @@ http://14.191.76.71:9981/stream/channelid/1339256027
 http://14.191.76.71:9981/stream/channelid/1685707661
 #EXTINF:-1,Tây Ninh 11
 http://14.191.76.71:9981/stream/channelid/71134407
-#EXTINF:-1,VOV Giao thông
-http://14.191.76.71:9981/stream/channelid/1442085925
 #EXTINF:-1,VOV TV
-http://14.191.76.71:9981/stream/channelid/192015683
+http://123.21.17.247:8889/rtp/232.84.1.46:8256
 #EXTINF:-1,VOV1
-http://14.191.76.71:9981/stream/channelid/1163719653
+http://123.21.17.247:8889/rtp/232.84.1.33:8172
 #EXTINF:-1,VOV2
-http://14.191.76.71:9981/stream/channelid/189292593
-#EXTINF:-1,VOV3 - Âm nhạc
-http://14.191.76.71:9981/stream/channelid/2116264693
+http://123.21.17.247:8889/rtp/232.84.1.37:8196
+#EXTINF:-1,VOV3
+http://123.21.17.247:8889/rtp/232.84.1.34:8178
+#EXTINF:-1,VOV GIAO THONG
+http://123.21.17.247:8889/rtp/232.84.1.38:8202
 #EXTINF:-1,VTC1
 http://14.239.87.67:4022/rtp/232.84.1.30:8154
 #EXTINF:-1,VTC1 HD
@@ -1406,13 +1410,15 @@ http://123.21.17.247:8889/rtp/232.84.1.207:9216
 #EXTINF:-1,VTVCab4 - Kênh 17
 http://14.191.76.71:9981/stream/channelid/205866639
 #EXTINF:-1,VTVCab5 - E Channel
-http://14.239.87.67:4022/rtp/232.84.1.193:9132
+http://123.21.17.247:8889/rtp/232.84.1.193:9132
 #EXTINF:-1,VTVCab6 - Hay TV
-http://14.239.87.67:4022/rtp/232.84.1.220:9294
+http://123.21.17.247:8889/rtp/232.84.1.220:9294
 #EXTINF:-1,VTVCab7 - Dramas
-http://14.239.87.67:4022/rtp/232.84.1.205:9204
+http://123.21.17.247:8889/rtp/232.84.1.205:9204
 #EXTINF:-1,VTVCab8 - BiBi
-http://14.239.87.67:4022/rtp/232.84.1.206:9210
+http://123.21.17.247:8889/rtp/232.84.1.206:9210
+#EXTINF:-1,VTVcab11-VGS SHOP
+http://123.21.17.247:8889/rtp/232.84.1.229:9348
 #EXTINF:-1,Vĩnh Long 1
 http://14.191.76.71:9981/stream/channelid/1895900445
 #EXTINF:-1,Vĩnh Phúc
@@ -1480,15 +1486,11 @@ http://14.191.76.71:9981/stream/channelid/992027177
 #EXTINF:-1,Thông tấn xã Việt Nam
 http://14.191.76.71:9981/stream/channelid/183257782
 #EXTINF:-1,TOMNAMI Cartoon
-http://14.191.76.71:9981/stream/channelid/1692702013
-#EXTINF:-1,VTC1
-http://14.191.76.71:9981/stream/channelid/1591004377
-#EXTINF:-1,VTC3
-http://14.191.76.71:9981/stream/channelid/814137948
-#EXTINF:-1,VTC3 HD
-http://14.191.76.71:9981/stream/channelid/1573907266
-#EXTINF:-1,VTV5 HD
-http://14.191.76.71:9981/stream/channelid/645381169
+http://123.21.17.247:8889/rtp/232.84.1.91:10404
+#EXTINF:-1,VNEWS-TTXVN
+http://123.21.17.247:8889/rtp/232.84.1.52:8292
+#EXTINF:-1,VNEWS-TTXVN HD
+http://123.21.17.247:8889/rtp/232.84.2.238:1043
 #EXTINF:-1,Vĩnh Long 2
 http://14.191.76.71:9981/stream/channelid/2106358838
 #EXTINF:-1,WARNER BROS HD
