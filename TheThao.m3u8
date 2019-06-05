@@ -6,6 +6,8 @@ http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/23
 #EXTINF:-1 group-title="Kênh thể thao" tvg-logo="https://img.funtop.tw/2015/04/150426-im-cctv5-live/im-cctv5-live_1.jpg" ,CCTV5+
 http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/d1.m3u8
 
+#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2019_King%27s_Cup.jpg/320px-2019_King%27s_Cup.jpg",King's Cup
+https://cdn9.90phut.tv/fc2f9efd8833fcd22c987bcaa1553a9c9e87e762/8c975906d63198fed4bfab81e97423da/1559768035/app_1_13e88/kingcupHD/chunklist.m3u8
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",BÓNG ĐÁ 1 (Chỉ phát khi có bóng đá) 
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",BÓNG ĐÁ 2 (Chỉ phát khi có bóng đá) 
