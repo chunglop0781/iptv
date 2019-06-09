@@ -6,9 +6,9 @@ http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/23
 #EXTINF:-1 group-title="Kênh thể thao" tvg-logo="https://img.funtop.tw/2015/04/150426-im-cctv5-live/im-cctv5-live_1.jpg" ,CCTV5+
 http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/d1.m3u8
 
-#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2019_King%27s_Cup.jpg/320px-2019_King%27s_Cup.jpg",King's Cup
+#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-pQAyBF4NlIorx5CfXygSqDzL74LJ1f1yLAw=s100-mo-c-c0xffffffff-rj-k-no",XOI.TV S1
 https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S1
-#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2019_King%27s_Cup.jpg/320px-2019_King%27s_Cup.jpg",King's Cup SD
+#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-pQAyBF4NlIorx5CfXygSqDzL74LJ1f1yLAw=s100-mo-c-c0xffffffff-rj-k-no",XOI.TV S2
 https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S2
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",BÓNG ĐÁ 1 (Chỉ phát khi có bóng đá) 
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
