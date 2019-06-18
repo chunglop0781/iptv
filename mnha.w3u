@@ -125,6 +125,16 @@
           "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
           "stations": [
             {
+              "image": "https://fptplay.vn/images/logo.png",
+              "name": "FPT Play S1",
+              "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/S1.m3u8",
+            }
+          ]
+        },
+        {          "name": "Xem bóng đá (link acestream và sopcast) - Kết nối app VPN để load nhanh, xem ổn định hơn",
+          "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
+          "stations": [
+            {
               "image": "https://s31.postimg.cc/gj95psycr/ace.png",
               "name": "Xem bóng đá & các môn thể thao khác theo giờ GMT+7: Click kênh trận đấu muốn xem > đồng ý mở (plugins engine Acesream) > thưởng thức !",
               "url": "https://acesoplisting.in/",
