@@ -3565,6 +3565,12 @@
               "isHost": true
             },
             {
+            "image": "http://www.xemtivimienphi.com/image/vtv1.png",
+              "name": "VTV1 HD s4",
+              "url": "http://hplus.com.vn/xem-kenh-vtv1-full-hd-1080-52524.html",
+              "isHost": true
+            },
+            {
               "image": "http://www.xemtivimienphi.com/image/vtv2.png",
               "name": "VTV2 HD s1",
               "url": "http://apps2.101vn.com/app/code/nextbet.php?id=192_3",
