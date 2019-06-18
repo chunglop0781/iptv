@@ -25,12 +25,6 @@
               "embed": "true"
             },
             {
-              "image": "https://fptplay.vn/images/logo.png",
-              "name": "FPT Play",
-              "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/listwiseplay",
-              "isHost": true
-            },
-            {
               "image": "https://media.bongdaf.net/upload/images/default_bongdaf.png",
               "name": "Xem bóng đá tại bongdaf.net",
               "url": "https://bongdaf.net/",
