@@ -26,9 +26,8 @@
             },
             {
               "image": "https://fptplay.vn/images/logo.png",
-              "name": "FPT Play",
-              "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/listwiseplay",
-              "isHost": true
+              "name": "FPT Play S1",
+              "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/S1.m3u8",
             },
             {
               "image": "https://media.bongdaf.net/upload/images/default_bongdaf.png",
