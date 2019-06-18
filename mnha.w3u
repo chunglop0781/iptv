@@ -120,6 +120,9 @@
           "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
           "stations": [
             {
+          "name": "FPT Play S1",
+          "image": "https://fptplay.vn/images/logo.png",
+          "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/S1"
             }
           ]
         },
