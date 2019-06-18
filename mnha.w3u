@@ -3564,14 +3564,6 @@
               "isHost": true
             },
             {
-              "image": "http://www.xemtivimienphi.com/image/vtv1.png",
-              "name": "VTV1 HD s5",
-              "url": "https://fptplay.vn/xem-truyen-hinh/vtv1-hd",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },
-            {
               "image": "http://www.xemtivimienphi.com/image/vtv2.png",
               "name": "VTV2 HD s1",
               "url": "http://apps2.101vn.com/app/code/nextbet.php?id=192_3",
