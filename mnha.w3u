@@ -3552,7 +3552,13 @@
               "name": "VTV1 HD s3",
               "url": "https://ok.ru/live/1136794934871"
             },
-            {                
+            {    
+              "image": "http://www.xemtivimienphi.com/image/vtv1.png",
+              "name": "VTV1 HD s4",
+              "url": "https://fptplay.vn/xem-truyen-hinh/vtv1-hd",
+              "isHost": true
+            },
+            {
               "image": "http://www.xemtivimienphi.com/image/vtv2.png",
               "name": "VTV2 HD s1",
               "url": "http://apps2.101vn.com/app/code/nextbet.php?id=192_3",
