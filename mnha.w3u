@@ -3973,13 +3973,13 @@
         {
           "image": "https://i.imgur.com/VosBu63.png",
           "name": "VTC3",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=145_3",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/vtc3",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/v9DNS85.png",
           "name": "VTC4",
-          "url": "https://www.vtc.gov.vn/kenh/vtc3",
+          "url": "https://www.vtc.gov.vn/kenh/vtc4",
           "isHost": true
         },
         {
