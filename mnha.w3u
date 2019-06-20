@@ -3907,6 +3907,7 @@
               "image": "http://www.xemtivimienphi.com/image/htv3.png",
               "name": "HTV 3",
               "url": "http://sv.tvmienphi.net/ok/htv/htv33.php",
+              "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git",
               "isHost": true
             },
             {
