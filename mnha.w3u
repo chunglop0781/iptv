@@ -3979,8 +3979,8 @@
         {
           "image": "https://i.imgur.com/v9DNS85.png",
           "name": "VTC4",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=46_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/vtc3",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/w18H0gU.jpg",
