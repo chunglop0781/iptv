@@ -3961,14 +3961,14 @@
             {
           "image": "https://i.imgur.com/4Uljs81.png",
           "name": "VTC1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=150_3",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC1",
+          "Host": true
         },
         {
           "image": "https://i.imgur.com/80JNlos.png",
           "name": "VTC2",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=181_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC2",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/VosBu63.png",
@@ -3985,67 +3985,68 @@
         {
           "image": "https://i.imgur.com/w18H0gU.jpg",
           "name": "VTC5",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=28_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC5",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/YasRGy0.png",
-          "name": "VTC6",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=29_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "name": "VTC6",         
+          "url": "https://www.vtc.gov.vn/kenh/VTC6",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/lW2DbEB.png",
           "name": "VTC7",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=47_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC7",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/FVM7co8.jpg",
           "name": "VTC8",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=14_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC8",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/UOIPXAr.png",
           "name": "VTC9",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=48_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC9",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/gyKnxEP.png",
           "name": "VTC10",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=15_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC10",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/liNUOk4.jpg",
           "name": "VTC11",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=72_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC11",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/OHzugWa.jpg",
           "name": "VTC12",
-          "url": "https://5cf1e0bd8ad7d.streamlock.net/live/vtc12.stream/chunklist_w901922285.m3u8"
+          "url": "https://www.vtc.gov.vn/kenh/VTC12",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/hLQNEhy.png",
           "name": "VTC13",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=152_3",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC13",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/85swmKd.png",
           "name": "VTC14",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=16_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC14",
+          "isHost": true
         },
         {
           "image": "https://i.imgur.com/amaDGnw.jpg",
           "name": "VTC16",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=17_2",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+          "url": "https://www.vtc.gov.vn/kenh/VTC16",
+          "isHost": true
             }
           ]
         },
