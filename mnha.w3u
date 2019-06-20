@@ -3906,7 +3906,7 @@
             {
               "image": "http://www.xemtivimienphi.com/image/htv3.png",
               "name": "HTV 3",
-              "url": "http://sv.tvmienphi.net/ok/htv/htv31.php",
+              "url": "http://play.nhanhtv.com/playmedia1.php?sv=http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8",
               "isHost": true
             },
             {
