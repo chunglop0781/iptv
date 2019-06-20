@@ -3904,6 +3904,12 @@
               "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
             },
             {
+              "image": "http://www.xemtivimienphi.com/image/htv3.png",
+              "name": "VTV9 HD s2",
+              "url": "http://sv.tvmienphi.net/ok/htv/htv33.php",
+              "isHost": true
+            },
+            {
               "image": "http://www.xemtivimienphi.com/image/htv-thuanviet.png",
               "name": " HTVC THUAN VIET",
               "url": "http://apps2.101vn.com/app/code/nextbet.php?id=57_2",
