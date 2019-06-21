@@ -127,6 +127,12 @@
           "image": "https://fptplay.vn/images/logo.png",
           "name": "FPT Play s2",
           "url": "https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S3"
+            },
+            {
+              "image": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg",
+              "name": "Real Madrid TV",
+              "url": "https://www.realmadrid.com/en/real-madrid-tv",
+              "isHost": true
             }
           ]
         },
