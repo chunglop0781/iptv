@@ -133,6 +133,12 @@
               "name": "Real Madrid TV English & Spanish",
               "url": "https://www.realmadrid.com/en/real-madrid-tv",
               "isHost": true
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/330px-Man_Utd_FC_.svg.png",
+              "name": "MU TV",
+              "url": "http://mygoaltv.com/live.php?url=https%3A%2F%2Fd1wgyhp9evqv7n.cloudfront.net%2Fhls%2Fmutvpcweb%2F04.m3u8",
+              "isHost": true
             }
           ]
         },
