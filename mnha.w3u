@@ -122,6 +122,11 @@
               "image": "https://fptplay.vn/images/logo.png",
               "name": "FPT Play S1",
               "url": "https://raw.githubusercontent.com/chunglop0781/truc_tiep_bong_da_fpt_play/master/S1.m3u8"
+            },
+            {
+          "image": "https://fptplay.vn/images/logo.png",
+          "name": "FPT Play s2",
+          "url": "https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S3"
             }
           ]
         },
