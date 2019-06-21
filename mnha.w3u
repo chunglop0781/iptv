@@ -129,8 +129,8 @@
           "url": "https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S3"
             },
             {
-              "image": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg",
-              "name": "Real Madrid TV",
+              "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/c/c7/Logo_Real_Madrid.svg/225px-Logo_Real_Madrid.svg.png",
+              "name": "Real Madrid TV English & Spanish",
               "url": "https://www.realmadrid.com/en/real-madrid-tv",
               "isHost": true
             }
