@@ -3905,6 +3905,36 @@
           ]
         },
         {
+          "name": "List MyTV",
+          "image": "https://mytv.com.vn/images/logo-white.png",
+          "stations": [
+            {
+              "image": "https://mytv.com.vn/images/logo-white.png",
+              "name": " VNPT_Corp",
+              "url": "https://raw.githubusercontent.com/chunglop0781/VNPT_Corp/master/VNPT_Corp.m3u",
+              "import": true
+            },
+            {
+              "image": "https://mytv.com.vn/images/logo-white.png",
+              "name": " VNPT_Corp 2",
+              "url": "https://raw.githubusercontent.com/chunglop0781/VNPT_Corp/master/VNPT_Corp2.m3u",
+              "import": true
+            },
+            {
+              "image": "https://mytv.com.vn/images/logo-white.png",
+              "name": " VNPT_Corp 3",
+              "url": "https://raw.githubusercontent.com/chunglop0781/VNPT_Corp/master/VNPT_Corp3.m3u",
+              "import": true
+            },
+            {
+              "image": "https://mytv.com.vn/images/logo-white.png",
+              "name": " VNPT_Corp 4",
+              "url": "https://raw.githubusercontent.com/chunglop0781/VNPT_Corp/master/VNPT_Corp4.m3u",
+              "import": true
+            }
+          ]
+        },
+        {
           "name": "Kênh HTV",
           "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
           "stations": [
