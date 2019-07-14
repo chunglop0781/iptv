@@ -2421,12 +2421,10 @@
           "import": true
         },
         {
-          "image": "http://vnoo.net/zfiles/img/tv.png",
-          "name": "Xem TV tại vnoo.net: Mở Channels (meu dưới màn hình) > bấm kênh cần xem để get link > Click play (góc trên cùng bên phải màn hình) để thưởng thức",
-          "url": "http://tv.vnoo.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "image": "https://i.imgur.com/ey4DXZn.jpg",
+          "name": "Adult (18+)",
+          "url": "https://textuploader.com/1d76x/raw",
+          "import": true
         },
         {
           "image": "https://vtv1.mediacdn.vn/web_images/trangchulogo2018.png",
