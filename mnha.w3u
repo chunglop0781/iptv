@@ -2411,16 +2411,14 @@
       ]
     },
     {
-      "name": "Web Online TV",
+      "name": "Link dự phòng",
       "image": "https://i.postimg.cc/Kj0LtwYh/Other.png",
       "stations": [
         {
-          "image": "https://yt3.ggpht.com/a-/AAuE7mDHPFnyg5t0dEiwoBVNW7vyudi-YZY1DVY7aQ=s288-mo-c-c0xffffffff-rj-k-no",
-          "name": "Bấm kênh muốn xem để get link > Click Play (góc trên cùng bên phải màn hình để thưởng thức",
-          "url": "http://www.xemtivimienphi.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "image": "https://i.postimg.cc/Kj0LtwYh/Other.png",
+          "name": "Chương trình tổng hợp 2 (All in one 2)",
+          "url": "https://textuploader.com/1dzre/raw",
+          "import": true
         },
         {
           "image": "http://vnoo.net/zfiles/img/tv.png",
