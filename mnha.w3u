@@ -2411,6 +2411,84 @@
       ]
     },
     {
+      "name": "Web Online TV",
+      "image": "https://i.postimg.cc/Kj0LtwYh/Other.png",
+      "stations": [
+        {
+          "image": "https://yt3.ggpht.com/a-/AAuE7mDHPFnyg5t0dEiwoBVNW7vyudi-YZY1DVY7aQ=s288-mo-c-c0xffffffff-rj-k-no",
+          "name": "Bấm kênh muốn xem để get link > Click Play (góc trên cùng bên phải màn hình để thưởng thức",
+          "url": "http://www.xemtivimienphi.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "http://vnoo.net/zfiles/img/tv.png",
+          "name": "Xem TV tại vnoo.net: Mở Channels (meu dưới màn hình) > bấm kênh cần xem để get link > Click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "http://tv.vnoo.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://vtv1.mediacdn.vn/web_images/trangchulogo2018.png",
+          "name": "Xem TV tại vtv.vn: Mở kênh TV để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "http://vtvgo.vn/public/images/logo.png",
+          "name": "Mở kênh TV để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "http://vtvgo.vn/trang-chu.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://i.postimg.cc/cJSjXqCN/vtvgiaitri.jpg",
+          "name": "VTV giải trí - Mở kênh TV cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "https://www.vtvgiaitri.vn/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://lh3.googleusercontent.com/A_50KnGYNmYDMp2Jmw4v8Abhbyr30w67kBOnUqVYaKOSndpwngishp7gji6ZCPd1lQ=s180",
+          "name": "Mở kênh cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "https://www.vtc.gov.vn/kenh/vtc1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "http://vn.tvnet.gov.vn/favicons/android-icon-192x192.png",
+          "name": "Dành cho người Việt ở nước ngoài - Mở kênh TV cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://static.vov.vn/web/App_Themes/Images/logo-vov.png?v1503544667",
+          "name": "VOV.vn: Mở kênh để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "https://vov.vn/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://www.viettv24.com/home/images/logo.png",
+          "name": "Xem viettv24.com - Chọn kênh  cần xem để get link  > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
+          "url": "https://www.viettv24.com/home/index.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    },
+    {
       "name": "OneTV - Cho mạng FPT",
       "image": "https://fpt.vn/assets/frontend/img/icon/logo.png",
       "imageScale": "centerCrop",
