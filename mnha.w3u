@@ -2429,10 +2429,8 @@
         {
           "image": "https://vtv1.mediacdn.vn/web_images/trangchulogo2018.png",
           "name": "Xem TV tại vtv.vn: Mở kênh TV để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
-          "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "url": "https://raw.githubusercontent.com/chunglop0781/iptv/master/Wiseplayanime.m3u",
+          "import": true
         },
         {
           "image": "http://vtvgo.vn/public/images/logo.png",
@@ -2480,7 +2478,6 @@
           "url": "https://www.viettv24.com/home/index.html",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
-          "embed": "true"
         }
       ]
     },
