@@ -2421,8 +2421,15 @@
           "import": true
         },
         {
-          "name": "Adult (18+)",
+          "image": "https://image.flaticon.com/icons/png/512/1029/1029132.png",
+          "name": "Adult",
           "url": "https://textuploader.com/1d76x/raw",
+          "import": true
+        },
+        {
+          "image": "https://image.flaticon.com/icons/png/512/1029/1029132.png",
+          "name": "Adult s2",
+          "url": "https://textuploader.com/11kja/raw",
           "import": true
         },
         {
