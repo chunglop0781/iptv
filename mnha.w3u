@@ -2463,6 +2463,13 @@
               "url": "https://www.dailymotion.com/video/x4kzk1v",
               "playInNatPlayer": "true",
               "embed": "true"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/884588798486601728/RsxrZOnb_400x400.jpg",
+              "name": "KTV 국민방송",
+              "url": "http://m.ktv.go.kr/tv/onair",
+              "playInNatPlayer": "true",
+              "embed": "true
           }
       ]
     },
