@@ -2454,6 +2454,7 @@
           "image": "https://m.ytn.co.kr/img/live/tit_ytn.png",
           "name": "YTN News",
           "url": "https://m.ytn.co.kr/live.php",
+          "playInNatPlayer": "true",
           "embed": true
             },
             {
