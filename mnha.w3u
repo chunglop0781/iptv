@@ -2458,8 +2458,8 @@
           "embed": true
             },
             {
-              "image": "http://suong.me/public/images/suong-logo.png",
-              "name": "Xem bóng đá tại suong.me",
+              "image": "https://pbs.twimg.com/profile_images/884588798486601728/RsxrZOnb_400x400.jpg",
+              "name": "KTV 국민방송",
               "url": "http://m.ktv.go.kr/tv/onair",
               "playInNatPlayer": "true",
               "embed": "true"
