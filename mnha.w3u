@@ -2465,9 +2465,9 @@
               "embed": "true"
             },
             {
-              "image": "http://img.cbs.co.kr/mcbs/gnb/logo_n151006.png",
-              "name": "CBS",
-              "url": "http://m.cbs.co.kr",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/225px-Arirang.svg.png",
+              "name": "Arirang",
+              "url": "http://www.arirang.co.kr/tv/TV_Index.asp",
               "playInNatPlayer": "true",
               "embed": "true"
             },
