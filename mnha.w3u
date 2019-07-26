@@ -2460,7 +2460,8 @@
               "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/All_the_Kpop.jpeg/250px-All_the_Kpop.jpeg",
               "name": "All the K-Pop",
               "url": "https://www.dailymotion.com/video/x4kzk1v",
-              "isHost": true
+              "playInNatPlayer": "true",
+              "embed": "true"
           }
       ]
     },
