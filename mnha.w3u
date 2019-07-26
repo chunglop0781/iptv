@@ -2458,6 +2458,13 @@
           "embed": true
             },
             {
+              "image": "http://suong.me/public/images/suong-logo.png",
+              "name": "Xem bóng đá tại suong.me",
+              "url": "http://m.ktv.go.kr/tv/onair",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
               "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/All_the_Kpop.jpeg/250px-All_the_Kpop.jpeg",
               "name": "All the K-Pop",
               "url": "https://www.dailymotion.com/video/x4kzk1v",
