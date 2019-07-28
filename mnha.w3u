@@ -4253,10 +4253,9 @@
               "url": "https://ok.ru/video/1120199122519"
             },
             {
-              "image": "https://media.bongdaf.net/upload/images/default_bongdaf.png",
-              "name": "Xem bóng đá tại bongdaf.net",
-              "url": "https://bongdaf.net/",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "image": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
+              "name": "CN s2",
+              "url": "https://15092006.000webhostapp.com/cartoon.php",
               "playInNatPlayer": "true",
               "embed": "true"
             },
