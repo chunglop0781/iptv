@@ -4251,6 +4251,14 @@
               "image": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
               "name": "CN",
               "url": "https://ok.ru/video/1120199122519"
+              "isHost": true
+            },
+            {
+              "image": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
+              "name": "CN s2",
+              "url": "https://15092006.000webhostapp.com/cartoon.php",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-pB4lo73t5BU/VpxAaKT-9gI/AAAAAAAAALI/nqhTy7Xv2LE/h120/disney%25281%2529.png",
