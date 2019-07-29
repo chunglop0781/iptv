@@ -4205,52 +4205,72 @@
             {
             "image": "http://i.imgur.com/eG7NOxH.png",
               "name": "Natgeo",
-              "url": "https://ok.ru/video/1137107803735"
+              "url": "https://ok.ru/video/1137107803735",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery%25281%2529.png",
               "name": "Discovery",
-              "url": "https://ok.ru/video/1137116585559"
+              "url": "https://ok.ru/video/1137116585559",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",
               "name": "Fox movies",
-              "url": "https://ok.ru/video/1316067155543"
+              "url": "https://ok.ru/video/1316067155543",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "http://tivionlinehd.net/hinh/hbo.png",
               "name": "HBO",
-              "url": "https://ok.ru/live/1412926152279"
+              "url": "https://ok.ru/live/1412926152279",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",
               "name": "Max by HBO",
-              "url": "https://ok.ru/video/1120201088599"
+              "url": "https://ok.ru/video/1120201088599",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-W0nJPWHMsxU/W1iti8X3vmI/AAAAAAAAEIQ/w0xEMSsV6HwFUTqcIgoZgTLNRdEN-ep5ACEwYBhgL/w140-h70-p/redhbovip.png",
               "name": "Red by HBO",
-              "url": "https://ok.ru/video/1120201940567"
+              "url": "https://ok.ru/video/1120201940567",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-GKAboq51RcY/VpxATaqekNI/AAAAAAAAAIw/DgAevNiBgSA/h120/axn.png",
               "name": "AXN",
-              "url": "https://ok.ru/video/1131717860951"
+              "url": "https://ok.ru/video/1131717860951",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
               "name": "Cinemaword",
-              "url": "https://ok.ru/video/1137947188823"
+              "url": "https://ok.ru/video/1137947188823",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-YcgSPgdsGII/W1itSVQrMCI/AAAAAAAAEH0/epOz2aD3x6QTAbO8xRXrEkgN-vhw8ucSACLcBGAs/h120/warnertvvip.png",
               "name": "WB",
-              "url": "https://ok.ru/video/1316040023639"
+              "url": "https://ok.ru/video/1316040023639",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
               "name": "CN",
-              "url": "https://ok.ru/video/1120199122519"
+              "url": "https://ok.ru/video/1120199122519",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
@@ -4267,7 +4287,9 @@
             {
               "image": "https://lh3.googleusercontent.com/-6vVrt4aXBgQ/XGLVWf_X1xI/AAAAAAAAEiM/3i25Cobn1wwGJ0RVdb6XjuBtLi_9_hD1ACLcBGAs/h120/1200px-Disney_Junior.svg.png",
               "name": "Disney jr",
-              "url": "https://ok.ru/video/1177958817367"
+              "url": "https://ok.ru/video/1177958817367",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-6vVrt4aXBgQ/XGLVWf_X1xI/AAAAAAAAEiM/3i25Cobn1wwGJ0RVdb6XjuBtLi_9_hD1ACLcBGAs/h120/1200px-Disney_Junior.svg.png",
@@ -4279,17 +4301,23 @@
             {
               "image": "https://i.imgur.com/KRTd8Mm.png",
               "name": "Foxlife",
-              "url": "https://ok.ru/video/1314272714327"
+              "url": "https://ok.ru/video/1314272714327",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-Xjs9Qakw1jM/VpxAceXGRnI/AAAAAAAAAL8/w8HYqpNLtwk/h120/foxsport.png",
               "name": "Foxsports",
-              "url": "https://ok.ru/video/1323499789911"
+              "url": "https://ok.ru/video/1323499789911",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "http://www.xemtivimienphi.com/image/mtv.png",
               "name": "MTV",
-              "url": "https://ok.ru/video/1315988643415"
+              "url": "https://ok.ru/video/1315988643415",
+              "playInNatPlayer": "true",
+              "embed": "true"
             }
           ]
         },
