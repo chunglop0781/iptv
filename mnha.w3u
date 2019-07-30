@@ -3858,7 +3858,8 @@
           "image": "https://i.imgur.com/aXPRS4a.png",
           "name": "VTVcab5 s3",
           "url": "https://15092006.000webhostapp.com/vtvcab5.php",
-          "isHost": true
+          "playInNatPlayer": "true",
+          "embed": "true"
           },
           {
           "image": "http://www.xemtivimienphi.com/image/vtvcab6.png",
