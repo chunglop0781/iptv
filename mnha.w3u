@@ -4322,6 +4322,13 @@
             {
               "image": "http://www.xemtivimienphi.com/image/mtv.png",
               "name": "MTV",
+              "url": "https://15092006.000webhostapp.com/mtv.php",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "image": "http://www.xemtivimienphi.com/image/mtv.png",
+              "name": "MTV s2",
               "url": "https://ok.ru/video/1315988643415",
               "playInNatPlayer": "true",
               "embed": "true"
