@@ -2478,6 +2478,19 @@
               "userAgent": "SAMSUNG-SM-N910A",
               "playInNatPlayer": "true",
               "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "Phim từ MediaFire, Dropbox, OneDrive, ... (nhấn PHÁT ở dưới cùng để xem)",
+      "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/71/Google_Play_Movies_%26_TV_logo.png/100px-Google_Play_Movies_%26_TV_logo.png",
+      "stations": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/0/0a/Pokemon_tham_tu_pikachu.jpg/280px-Pokemon_tham_tu_pikachu.jpg",
+          "name": "Pokémon: Thám tử Pikachu",
+          "url": "http://megaurl.in/DnDXmP",
+          "playInNatPlayer": "true",
+          "embed": true
           }
       ]
     },
