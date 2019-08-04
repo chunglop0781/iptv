@@ -4057,8 +4057,15 @@
             },
             {
               "image": "http://www.xemtivimienphi.com/image/htv3.png",
-              "name": "HTV 3",
-              "url": "http://play.nhanhtv.com/playmedia1.php?sv=http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8",
+              "name": "HTV3",
+              "url": "https://mnha.000webhostapp.com/playmedia1.php?sv=http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8",
+              "isHost": true
+            },
+            {
+              "image": "http://www.xemtivimienphi.com/image/htv3.png",
+              "name": "HTV3 s2",
+              "url": "http://sv.tvmienphi.net/ok/htv/htv33.php",
+              "referrer": "http://sv.tvmienphi.net/ok/htv/htv34.php",
               "isHost": true
             },
             {
