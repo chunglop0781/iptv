@@ -2504,6 +2504,13 @@
           "name": "Doraemon: Nobita và đảo giấu vàng",
           "url": "http://megaurl.in/i28u0qVo",
           "playInNatPlayer": "true",
+          "embed": true
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/ButAlways.jpg/220px-ButAlways.jpg",
+          "name": "Yêu trọn một đời (But Always) (Vietsub)",
+          "url": "http://megaurl.in/Pl5UqOZ",
+          "playInNatPlayer": "true",
           "embed": true  
           }
       ]
