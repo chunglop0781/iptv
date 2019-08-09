@@ -4331,7 +4331,9 @@
             {
               "image": "https://lh3.googleusercontent.com/-pB4lo73t5BU/VpxAaKT-9gI/AAAAAAAAALI/nqhTy7Xv2LE/h120/disney%25281%2529.png",
               "name": "Disney",
-              "url": "https://ok.ru/video/1137939717719"
+              "url": "https://ok.ru/video/1137939717719",
+              "playInNatPlayer": "true",
+              "embed": "true"
             },
             {
               "image": "https://lh3.googleusercontent.com/-6vVrt4aXBgQ/XGLVWf_X1xI/AAAAAAAAEiM/3i25Cobn1wwGJ0RVdb6XjuBtLi_9_hD1ACLcBGAs/h120/1200px-Disney_Junior.svg.png",
