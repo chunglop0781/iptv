@@ -2482,7 +2482,7 @@
       ]
     },
     {
-      "name": "Phim từ MediaFire, Dropbox, OneDrive, ... (xác minh, nhấn download nếu có, nhấn PHÁT ở dưới cùng để xem)",
+      "name": "Phim từ MediaFire, Dropbox, OneDrive, ... (xác minh, nhấn download nếu có, nhấn PHÁT ở dưới cùng hoặc góc bên phải đầu từ trái sang phải nếu có để xem)",
       "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/71/Google_Play_Movies_%26_TV_logo.png/100px-Google_Play_Movies_%26_TV_logo.png",
       "stations": [
         {
@@ -2516,7 +2516,7 @@
         {
           "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/1/1f/Em_chưa_18_poster.jpg/280px-Em_chưa_18_poster.jpg",
           "name": "Em chưa 18",
-          "url": "http://megaurl.in/Pl5UqOZ",
+          "url": "http://megaurl.in/cdhn5FDJ",
           "playInNatPlayer": "true",
           "embed": true  
           }
