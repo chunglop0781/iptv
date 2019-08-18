@@ -8507,6 +8507,7 @@
           "image": "http://ustvgo.net/wp-content/uploads/2018/10/Weather-Channel-269x151.png",
           "name": "",
           "url": "http://ustvgo.net/the-weather-channel-live-streaming-free/",
+          "url1": "https://www.livenewswatch.com/the-weather-channel.html",
           "referrer": "http://ustvgo.net/category/news/",
           "isHost": true
         },
@@ -8521,6 +8522,7 @@
           "image": "http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg",
           "name": "",
           "url": "http://ustvgo.net/fox-business-live-streaming-free/",
+          "url1": "https://www.livenewswatch.com/fox-business.html",
           "referrer": "http://ustvgo.net/category/news/",
           "isHost": true
         },
@@ -8528,6 +8530,7 @@
           "image": "http://ustvgo.net/wp-content/uploads/2018/10/cnbc-1.jpg",
           "name": "",
           "url": "http://ustvgo.net/cnbc-live-streaming-free/",
+          "url1": "https://www.livenewswatch.com/cnbc.html",
           "referrer": "http://ustvgo.net/category/news/",
           "isHost": true
         },
@@ -8535,6 +8538,7 @@
           "image": "http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg",
           "name": "",
           "url": "http://ustvgo.net/fox-news-live-streaming-free/",
+          "url1": "https://www.livenewswatch.com/fox-news.html",
           "referrer": "http://ustvgo.net/category/news/",
           "isHost": true
         },
