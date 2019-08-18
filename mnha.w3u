@@ -7280,6 +7280,7 @@
           "image": "",
           "name": "CNBC",
           "url": "https://www.arconaitv.us/stream.php?id=123",
+          "url1": "https://www.livenewswatch.com/cnbc.html",
           "referrer": "https://www.arconaitv.us/stream.php?id=123",
           "isHost": true
         },
@@ -8575,6 +8576,7 @@
           "image": "http://www.webtv.so/uploads/images/channel_172_1517620715_social.jpg",
           "name": "CNN",
           "url": "http://www.webtv.so/index.php/channel/172/cnn-usa/#",
+          "url1": "https://www.livenewswatch.com/cnn-news-usa.html",
           "referrer": "http://www.webtv.so/index.php/channel/172/cnn-usa/",
           "isHost": true
         },
