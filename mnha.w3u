@@ -2416,7 +2416,7 @@
           "image": "http://vn.tvnet.gov.vn/favicons/android-icon-192x192.png",
           "name": "Dành cho người Việt ở nước ngoài - Mở kênh TV cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
           "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36 AdobeFlashPlayer/32.0.0.238",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36 flashplayer/32.0.0.238",
           "playInNatPlayer": "true",
           "embed": "true"
         },
