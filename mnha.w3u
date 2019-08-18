@@ -2179,24 +2179,28 @@
           "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasport_1_logo-min.png",
           "name": "Arena sport 1",
           "url": "https://sblive.online/arena1rs.html",
+          "referrer": "http://sportsvideoline3.pw/player?channel=arena1",
           "isHost": true
         },
         {
           "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasports2-min.jpg",
           "name": "Arena sport 2",
           "url": "https://sblive.online/arena2sport.html",
+          "referrer": "http://sportsvideoline3.pw/player?channel=arena2",
           "isHost": true
         },
         {
           "image": "http://online-allsports.com.ua/images/stories_2/logotv/arena_sport_rs_3-min.png",
           "name": "Arena sport 3",
           "url": "https://sblive.online/sportarena3rs.html",
+          "referrer": "http://sportsvideoline3.pw/player?channel=arena3",
           "isHost": true
         },
         {
           "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasports4-min.png",
           "name": "Arena sport 4",
           "url": "https://sblive.online/arenaserbia4.html",
+          "referrer": "http://sportsvideoline3.pw/player?channel=arena4",
           "isHost": true
         },
         {
