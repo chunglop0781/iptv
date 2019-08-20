@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/kXcyz7ZQ/marvel-3.jpg",Phim Marvel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcyz7ZQ/marvel-3.jpg",Phim Marvel
 https://ws.flv.nimo.tv/live/su1599512427626re02097385902583d031254e5d6f0c321_high.flv?needwm=0
 
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/zXzH3WBn/dc-universe.jpg",Phim DC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXzH3WBn/dc-universe.jpg",Phim DC
 https://al.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
 
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/MTQCmn9b/007-Screenshot-3.jpg",Phim 007
+#EXTINF:-1 group-title="Kênh 24 tvg-logo="https://i.postimg.cc/MTQCmn9b/007-Screenshot-3.jpg",Phim 007
 https://al.flv.nimo.tv/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
 
 #EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Phim Thành Long
