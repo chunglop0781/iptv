@@ -2432,7 +2432,6 @@
           "image": "https://web-www.nimostatic.tv/dist/images/sidebar-logo.64d00f41dba8406dd1444fd1eefc1979.png",
           "name": "Nimo TV: Mở kênh để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
           "url": "https://www.nimo.tv/game/184",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
         },
