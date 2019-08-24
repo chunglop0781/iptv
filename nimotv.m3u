@@ -147,3 +147,6 @@ https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7_hig
 
 #EXTINF:-1 tvg-logo="https://wspic.vod.nimo.tv/sg/live/338*190/su1599512427616r8b31ba3cdb51f2ad51c8b67f16b9fd25.jpg",Gia đình là số 1 p2 HQ
 https://ws.flv.nimo.tv/live/su1599512427616r8b31ba3cdb51f2ad51c8b67f16b9fd25_high.flv?needwm=0
+
+#EXTINF:-1 tvg-logo="https://web-ops.nimostatic.tv/banner/C29D3E2E871418478CD0E65ED93B619D_500x290.jpg",Larva
+https://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv?needwm=0
