@@ -2450,12 +2450,6 @@
       "image": "https://i.postimg.cc/Kj0LtwYh/Other.png",
       "stations": [
         {
-          "image": "https://i.postimg.cc/Kj0LtwYh/Other.png",
-          "name": "Chương trình tổng hợp 2 (All in one 2)",
-          "url": "https://textuploader.com/1dzre/raw",
-          "import": true
-        },
-        {
           "image": "https://image.flaticon.com/icons/png/512/1029/1029132.png",
           "name": "Adult",
           "url": "https://raw.githubusercontent.com/chunglop0781/adult/master/adult.w3u",
@@ -2464,7 +2458,7 @@
         {
           "image": "https://assets3.thrillist.com/v1/image/2813543/size/gn-gift_guide_variable_c_2x.jpg",
           "name": "Anime",
-          "url": "https://raw.githubusercontent.com/chunglop0781/iptv/master/Wiseplayanime.m3u",
+          "url": "https://raw.githubusercontent.com/chunglop0781/iptv/master/anime.w3u",
           "import": true
         }
       ]
