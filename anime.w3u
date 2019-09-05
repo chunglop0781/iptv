@@ -1,16 +1,16 @@
 {
-    "name": "IPTV QUỐC TẾ",
+    "name": "Anime",
     "author": "thanh51",
     "url": "http://w3ubin.com/BJtUK9k3e.w3u",
    "groups": [
                   { 
 
-                 "name": "TRUYỀN HÌNH MỸ",
+                 "name": "Doraemon",
                 "image": "https://s22.postimg.org/aeby2b05d/hoaky.jpg",
                
                 "stations": [
  				  {
-"name": " 5 USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3878.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"image": "https://openload.co/stream/YXAYkKgNjbE~1567739647~2001:ee0::~VzRggShR?mime=true","name": " Doraemon Tập 1 - Tàu Ngầm Giấy, Bình Chứa Gas Làm Đông Mây - Hoạt Hình Tiếng Việt","url": "https://openload.co/embed/uhfiRn4bKkQ/Tap1.mp4","playInNatPlayer": "true","embed": "true"},{
 "name": " ABC NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3880.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " AMC HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3882.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " BEINSPORTS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3888.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
