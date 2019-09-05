@@ -39,7 +39,7 @@
 "name": " TSN 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3917.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " TSN 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3918.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " WILLOW HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3921.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " WWE NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3923.ts","playInNatPlayer": "true","embed": "true" 
+"name": " WWE NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3923.ts"true" 
    }
                 
     ]
