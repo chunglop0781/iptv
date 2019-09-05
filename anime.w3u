@@ -1,11 +1,12 @@
 {
     "name": "Anime",
     "author": "chunglop0781@gmail.com",
+    "image": "https://assets3.thrillist.com/v1/image/2813543/size/gn-gift_guide_variable_c_2x.jpg",
     "url": "https://raw.githubusercontent.com/chunglop0781/iptv/master/anime.w3u",
    "groups": [
                   { 
 
-                 "name": "TRUYỀN HÌNH MỸ",
+                 "name": "Doraemon",
                 "image": "https://s22.postimg.org/aeby2b05d/hoaky.jpg",
                
                 "stations": [
