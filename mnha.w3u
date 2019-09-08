@@ -155,6 +155,12 @@
               "name": "Football 1",
               "url": "https://15092006.000webhostapp.com/football1.php",
               "isHost": true
+            },
+            {
+              "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
+              "name": "Football 2",
+              "url": "https://15092006.000webhostapp.com/football2.php",
+              "isHost": true
             }
           ]
         },
