@@ -6,6 +6,8 @@ http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/23
 #EXTINF:-1 group-title="Kênh thể thao" tvg-logo="https://img.funtop.tw/2015/04/150426-im-cctv5-live/im-cctv5-live_1.jpg" ,CCTV5+
 http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/d1.m3u8
 
+
+http://p7vhfsseh5.vcdn.com.vn/hls/jgqhdzb/index.m3u8
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://raw.githubusercontent.com/chunglop0781/xoilactv/master/unnamed.jpg",XOI.TV S1
 https://raw.githubusercontent.com/chunglop0781/xoilactv/master/S1
 #EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://raw.githubusercontent.com/chunglop0781/xoilactv/master/unnamed.jpg",XOI.TV S2
